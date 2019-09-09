@@ -9,4 +9,4 @@ This is the sample extension built in the "Build an Extension in Under 5 Minutes
 * **popup.html** - the structure of the browser action's popup
 * **popup.js** - the functionality of the browser action's popup
 
-[Check out the Extension Workshop to learn more](https://extensionworkshop.mozilla.org/)
+[Check out the Extension Workshop to learn more](https://extensionworkshop.com/)
